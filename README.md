@@ -6,9 +6,10 @@ This is a simple **group project** built using **HTML** and **CSS**. The website
 
 This website was created as part of a **group assignment** for our web development course. Each team member contributed to different sections of the site including design, layout, and page development.
 
-## 🔗 GitHub Repository
+## 🔗 Project Links
 
-[Click here to view the project on GitHub](https://github.com/AreeshaNadeem973/florist-assignment-project-html-css)
+- 🌐 **Live Preview**: [https://florist-assignment-project.vercel.app/](https://florist-assignment-project.vercel.app/)  
+- 💻 **GitHub Repository**: [https://github.com/AreeshaNadeem973/florist-assignment-project-html-css](https://github.com/AreeshaNadeem973/florist-assignment-project-html-css)
 
 ## 📁 Features
 
@@ -32,3 +33,4 @@ This website was created as part of a **group assignment** for our web developme
 1. Clone the repository:
    ```bash
    git clone https://github.com/AreeshaNadeem973/florist-assignment-project-html-css
+
