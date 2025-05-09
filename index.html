@@ -8,11 +8,20 @@
     <!-- CSS Files -->
     <link rel="stylesheet" href="header.css" />
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="footer.css" />
+
     <!-- Header icons  -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     />
+
+        <!-- footer icons -->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+      rel="stylesheet"
+    />
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -21,23 +30,20 @@
       rel="stylesheet"
     />
 
-    <!-- footer -->
-    <link rel="stylesheet" href="/footer.css" />
-    <!-- footer icons -->
-    <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-      rel="stylesheet"
-    />
   </head>
-
   <body>
+
     <!-- Header -->
     <header class="navbar">
       <div class="logo">Florist<span class="flower">✿</span></div>
+
+      <!-- Burger Menu (Mobile toggle) -->
       <input type="checkbox" id="toggle-menu" />
       <label for="toggle-menu" class="burger">
         <i class="fa-solid fa-bars"></i>
       </label>
+
+      <!-- Navigation Menu -->
       <nav class="menu">
         <a href="index.html" class="active">HOME</a>
         <a href="about.html">ABOUT</a>
@@ -45,6 +51,8 @@
         <a href="blog.html">BLOGS</a>
         <a href="contact.html">CONTACT</a>
       </nav>
+
+      <!-- Icons Section: -->
       <div class="icons">
         <div><i class="fa-solid fa-magnifying-glass"></i></div>
         <div class="wishlist">
@@ -621,7 +629,7 @@
       <!-- Footer Bottom -->
       <div class="footer-bottom">
         Copyright ©2025 | Made with <span class="footer-heart">♥</span> by
-        <a href="https://colorlib.com/">Colorlib</a>
+        <a href="https://colorlib.com/" class="footer-colorlib">Colorlib</a>
       </div>
     </footer>
   </body>
