@@ -1,6 +1,10 @@
 # 🌸 Florist Assignment Project (HTML & CSS)
 
-This is a simple florist website built using **HTML** and **CSS** as part of my 7th assignment. The project includes beautifully styled pages that simulate a flower shop layout and user experience.
+This is a simple **group project** built using **HTML** and **CSS**. The website showcases a beautiful and clean layout for a fictional flower shop, featuring multiple pages and elegant styling.
+
+## 👥 Group Assignment
+
+This website was created as part of a **group assignment** for our web development course. Each team member contributed to different sections of the site including design, layout, and page development.
 
 ## 🔗 GitHub Repository
 
@@ -8,19 +12,19 @@ This is a simple florist website built using **HTML** and **CSS** as part of my 
 
 ## 📁 Features
 
-- 🌼 Home Page
-- 🌺 About Page
-- 🛍️ Shop Page
-- ✍️ Blog Page
-- 📞 Contact Page
-- 🎨 CSS Styling for layout and colors
-- 📱 Responsive design (optional)
+- 🌼 Home Page  
+- 🌺 About Page  
+- 🛍️ Shop Page  
+- ✍️ Blog Page  
+- 📞 Contact Page  
+- 🎨 CSS Styling for layout, colors, and typography  
+- 📱 Responsive Design (optional)
 
 ## 💻 Technologies Used
 
 - HTML5  
 - CSS3  
-- Flexbox/Grid  
+- Flexbox / Grid  
 - Google Fonts (optional)
 
 ## 🚀 How to Run Locally
