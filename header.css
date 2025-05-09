@@ -15,12 +15,12 @@ body {
   align-items: center;
   padding: 20px 40px;
   background-color: #fff;
-  position: fixed; /* Changed from relative */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   z-index: 1000;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); /* Optional subtle shadow */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); 
 }
 
 .logo {
